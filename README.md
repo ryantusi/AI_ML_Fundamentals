@@ -1,1 +1,1 @@
-# AI_ML_Fundamentals
+# AI ML Fundamentals Skill Path
